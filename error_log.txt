@@ -1,0 +1,3 @@
+Exception occurred: SMTP Error: Could not authenticate.
+Exception occurred: SMTP Error: Could not authenticate.
+Exception occurred: Invalid address:  (to): kingneonavi
